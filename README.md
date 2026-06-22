@@ -1,4 +1,4 @@
-# Institutional Intelligence: User Segmentation Model using Unsupervised Learning
+# Institutional Intelligence: User Segmentation Model using Unsupervised Learning (Machine Learning)
 
 ## Executive Summary
 This repository contains the end-to-end implementation of a behavioral user segmentation model developed for the **Jorge Roa Martínez Library** at the **Universidad Tecnológica de Pereira (UTP)**. By extracting and consolidating **1,784,919 transactional records**, the project transitions traditional library descriptive statistics into institutional intelligence, providing an empirical framework to optimize digital resource allocation and support early student retention strategies.
